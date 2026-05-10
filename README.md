@@ -30,8 +30,15 @@ This repository contains projects focused on:
 |---|---|
 | Earthquake Waveform Analysis | Basic seismic waveform retrieval, filtering, and visualization using ObsPy |
 
+## Current Focus
+
+Currently learning and building projects in:
+- Seismic waveform analysis
+- Computational seismology
+- Signal processing using ObsPy
+- Machine learning applications in seismology using SeisBench
+
 ## Author
 
 Fadia Putri Ananda
-
 Geophysics Graduate interested in Seismology, Seismic Data Analysis, and Scientific Computing.
