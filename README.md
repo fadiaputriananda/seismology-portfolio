@@ -29,6 +29,7 @@ This repository contains projects focused on:
 | Project | Description |
 |---|---|
 | Earthquake Waveform Analysis | Basic seismic waveform retrieval, filtering, and visualization using ObsPy |
+| Seismic Monitoring Dashboard | Interactive earthquake monitoring dashboard built using Google Looker Studio and earthquake datasets |
 
 ## Current Focus
 
