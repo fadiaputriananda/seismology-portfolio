@@ -11,7 +11,7 @@ The workflow includes:
 - ObsPy
 - Matplotlib
 - NumPy
-- Jupyter Notebook
+- IRIS Event Catalog Earthquake Data API
 
 ## Workflow
 
