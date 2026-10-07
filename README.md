@@ -42,4 +42,4 @@ Currently learning and building projects in:
 ## Author
 
 Fadia Putri Ananda
-Geophysics Graduate interested in Seismology, Seismic Data Analysis, and Scientific Computing.
+Geophysics Engineering Graduate interested in Seismology, Seismic Data Analysis, and Scientific Computing.
